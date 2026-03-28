@@ -61,7 +61,7 @@ python train.py --config configs/tadiff.yaml
 
 
 <p align="center">
-  <img src="fig/01_motivation/table.png" width="60%">
+  <img src="https://activityforensics.github.io/activityforensics/fig/01_motivation/table.png" width="60%">
 </p>
 
 
