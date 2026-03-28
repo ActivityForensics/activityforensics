@@ -1,0 +1,70 @@
+dataset_name: vidf
+train_split_list: [ "train@wan", "train@scifi", "train@fcvg", "train@vace-1.3B", "train@ltx" ]
+val_split_list: ["test@wan", "test@scifi", "test@fcvg", "test@vace-1.3B", "test@ltx", 'test@vidu']
+dataset: {
+  json_file: '',
+  feat_folder: '',
+  file_prefix: '',
+  file_ext: .npy,
+  num_classes: 1,
+  input_dim: 768,
+  feat_stride: 4,
+  num_frames: 192,
+  # serve as data augmentation
+  trunc_thresh: 0.5,
+  crop_ratio: [0.9, 1.0],
+  max_seq_len: 192,
+  train_annot_num: -1,
+  test_annot_num: -1,
+  real_ratio: 0.3,
+  version: 'annot', #specify annot folder name
+}
+model: {
+  fpn_type: identity,
+  max_buffer_len_factor: 1.0,
+  n_mha_win_size: [7, 7, 7, 7, 7, -1],
+  n_head: 4,
+  embd_dim: 256,
+  fpn_dim: 256,
+  head_dim: 256,
+  use_abs_pe: True,
+}
+opt: {
+  learning_rate: 0.001,
+  epochs: 30,
+  valid_epoch: 1,
+  weight_decay: 0.05,
+  start_test_epoch: 15,
+}
+loader: {
+  batch_size: 32,
+}
+train_cfg: {
+  init_loss_norm: 200,
+  clip_grad_l2norm: 1.0,
+  cls_prior_prob: 0.01,
+  center_sample: radius,
+  center_sample_radius: 1.5,
+  label_smoothing: 0.1,
+  droppath: 0.1,
+  loss_weight: 2.0,
+  denoise_steps: 3,
+  eta: 0.0,
+  beta_start_end: [1.0e-4, 0.02],
+}
+
+test_cfg: {
+  voting_thresh: 0.9,
+  pre_nms_topk: 2000,
+  # max of 100 predictions per video
+  max_seg_num: 100,
+  min_score: 0.001,
+  # score fusion
+  multiclass_nms: False,
+  nms_sigma : 0.75,
+  ext_score_file: "",
+  duration_thresh: 0.001,
+  skip_separate_flag: True,
+  cross_flag: False,
+}
+output_folder: ./ckpt/
