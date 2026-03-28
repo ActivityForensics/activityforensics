@@ -4,7 +4,7 @@
 
 - [Project Page](https://activityforensics.github.io/)
 - [Paper](#)
-- [Code](https://github.com/ActivityForensics/activityforensics_project)
+- [Code](https://github.com/ActivityForensics/activityforensics)
 - [Dataset](https://entuedu-my.sharepoint.com/:f:/g/personal/peijun_bao_staff_main_ntu_edu_sg/IgB-nNOfNgG6QaqwV2CPjQY9AdDht4epuR3G-IhOK7Ihbbg) (password: ActivityForensics)
 
 ---
@@ -55,7 +55,7 @@ python train.py --config configs/tadiff.yaml
 
 ## Beyond Appearance: The First Benchmark for Activity-Level Forensics
 
-| ![](fig/01_motivation/1.png) | ![](fig/01_motivation/2.png) |
+| ![](https://activityforensics.github.io/activityforensics_project/fig/01_motivation/1.png) | ![](https://activityforensics.github.io/activityforensics_project/fig/01_motivation/2.png) |
 |:---------------------------:|:---------------------------:|
 | Appearance-level forgery | Activity-level forgery |
 
@@ -68,7 +68,7 @@ python train.py --config configs/tadiff.yaml
 
 ## Grounding-Assisted Dataset Construction
 
-![](fig/03_generation/main.png)
+![](https://activityforensics.github.io/activityforensics_project/fig/03_generation/main.png)
 
 <p align="center"><em>Overview of grounding-assisted dataset generation pipeline.</em></p>
 
