@@ -47,7 +47,7 @@ python train.py --config configs/tadiff.yaml
 
 ## Motivation: In which video are the activities AI-manipulated?
 
-| [![Video A](./fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics_project/fig/02_samples/0UK3H_crop.mp4) | ![arrow](./fig/02_samples/main.png) | [![Video B](./fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics_project/fig/02_samples/0UK3H+2.10=8.20=charades@test_delete@0UK3H@639@wan_crop.mp4) |
+| [![Video A](./fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_crop.mp4) | ![arrow](./fig/02_samples/main.png) | [![Video B](./fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H+2.10=8.20=charades@test_delete@0UK3H@639@wan_crop.mp4) |
 |:---------------------------:|:---------------------------:|:---------------------------:|
 |   Original Video | (video can be played in new tab) | Manipulated Video |
 
@@ -55,7 +55,7 @@ python train.py --config configs/tadiff.yaml
 
 ## Beyond Appearance: The First Benchmark for Activity-Level Forensics
 
-| ![](https://activityforensics.github.io/activityforensics_project/fig/01_motivation/1.png) | ![](https://activityforensics.github.io/activityforensics_project/fig/01_motivation/2.png) |
+| ![](https://activityforensics.github.io/activityforensics/fig/01_motivation/1.png) | ![](https://activityforensics.github.io/activityforensics/fig/01_motivation/2.png) |
 |:---------------------------:|:---------------------------:|
 | Appearance-level forgery | Activity-level forgery |
 
@@ -68,7 +68,7 @@ python train.py --config configs/tadiff.yaml
 
 ## Grounding-Assisted Dataset Construction
 
-![](https://activityforensics.github.io/activityforensics_project/fig/03_generation/main.png)
+![](https://activityforensics.github.io/activityforensics/fig/03_generation/main.png)
 
 <p align="center"><em>Overview of grounding-assisted dataset generation pipeline.</em></p>
 
