@@ -15,7 +15,11 @@
 
 - You can download the dataset at [OneDrive](https://entuedu-my.sharepoint.com/:f:/g/personal/peijun_bao_staff_main_ntu_edu_sg/IgB-nNOfNgG6QaqwV2CPjQY9AdDht4epuR3G-IhOK7Ihbbg)  (password: ActivityForensics).
 - We provide pre-extracted features for all videos to enable faster and more convenient experimentation. To run the code, you only need to download the extracted features, raw videos are not required.
-
+```
+data/
+  ├── feat/    # Pre-extracted video features
+  └── annot/   # Annotations
+```
 ## Build and install dependencies
 
 ```bash
