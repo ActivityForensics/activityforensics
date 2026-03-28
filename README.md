@@ -47,7 +47,7 @@ python train.py --config configs/tadiff.yaml
 
 ## Motivation: In which video are the activities AI-manipulated?
 
-| [![Video A](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_crop.mp4) | ![arrow](./fig/02_samples/main.png) | [![Video B](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H+2.10=8.20=charades@test_delete@0UK3H@639@wan_crop.mp4) |
+| [![Video A](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_crop.mp4) | ![arrow](./fig/02_samples/main_code.png) | [![Video B](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H+2.10=8.20=charades@test_delete@0UK3H@639@wan_crop.mp4) |
 |:---------------------------:|:---------------------------:|:---------------------------:|
 |   Original Video | (video can be played in new tab) | Manipulated Video |
 
