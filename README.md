@@ -4,7 +4,7 @@
 
 - [Project Page](https://activityforensics.github.io/)
 - [Paper](#)
-- [Code](https://github.com/ActivityForensics/activityforensics)
+- [Code](https://github.com/ActivityForensics/activityforensics_project)
 - [Dataset](https://entuedu-my.sharepoint.com/:f:/g/personal/peijun_bao_staff_main_ntu_edu_sg/IgB-nNOfNgG6QaqwV2CPjQY9AdDht4epuR3G-IhOK7Ihbbg) (password: ActivityForensics)
 
 ---
@@ -47,7 +47,7 @@ python train.py --config configs/tadiff.yaml
 
 ## Motivation: In which video are the activities AI-manipulated?
 
-| [![Video A](./fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_crop.mp4) | ![arrow](./fig/02_samples/main.png) | [![Video B](./fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H+2.10=8.20=charades@test_delete@0UK3H@639@wan_crop.mp4) |
+| [![Video A](./fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics_project/fig/02_samples/0UK3H_crop.mp4) | ![arrow](./fig/02_samples/main.png) | [![Video B](./fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics_project/fig/02_samples/0UK3H+2.10=8.20=charades@test_delete@0UK3H@639@wan_crop.mp4) |
 |:---------------------------:|:---------------------------:|:---------------------------:|
 |   Original Video | (video can be played in new tab) | Manipulated Video |
 
