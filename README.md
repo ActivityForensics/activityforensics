@@ -80,7 +80,6 @@ python train.py --config configs/tadiff.yaml
 </p>
 
 
-
 ## Grounding-Assisted Dataset Construction
 
 ![](https://activityforensics.github.io/activityforensics/fig/03_generation/main.png)
@@ -114,4 +113,4 @@ You are welcome to send pull requests or share some ideas with me.  Peijun Bao (
 
 <img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" 
      width="1" height="1" 
-     style="display: block;" />
+     style="display:none;" />
