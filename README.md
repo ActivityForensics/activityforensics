@@ -1,6 +1,6 @@
 # [CVPR 2026] ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos
 
-
+Peijun Bao,   Anwei Luo,   Gang Pan,   Alex C. Kot,   Xudong Jiang
 
 - [Project Page](https://activityforensics.github.io/)
 - [Paper](#)
