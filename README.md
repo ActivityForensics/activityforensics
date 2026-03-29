@@ -1,13 +1,6 @@
 # [CVPR 2026] ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos
 Peijun Bao,   Anwei Luo,   Gang Pan,   Alex C. Kot,   Xudong Jiang
 
-- [[Project Page]](https://activityforensics.github.io/)
-- [[Paper]](https://activityforensics.github.io/activityforensics/files/ActivityForensics_CVPR2026.pdf) 
-[[Supp]](https://activityforensics.github.io/activityforensics/files/ActivityForensics_Supp_CVPR2026.pdf)
-
-- [[Code]](https://github.com/ActivityForensics/activityforensics) 
-[[Dataset]](https://entuedu-my.sharepoint.com/:f:/g/personal/peijun_bao_staff_main_ntu_edu_sg/IgB-nNOfNgG6QaqwV2CPjQY9AdDht4epuR3G-IhOK7Ihbbg) (password: ActivityForensics)
-
 If this dataset is useful for your work, please consider citing our paper.
 ```bibtex
 @inproceedings{bao2026activityforensics,
@@ -17,6 +10,14 @@ If this dataset is useful for your work, please consider citing our paper.
     year={2026}
 }
 ```
+- [[Project Page]](https://activityforensics.github.io/)
+- [[Paper]](https://activityforensics.github.io/activityforensics/files/ActivityForensics_CVPR2026.pdf) 
+[[Supp]](https://activityforensics.github.io/activityforensics/files/ActivityForensics_Supp_CVPR2026.pdf)
+
+- [[Code]](https://github.com/ActivityForensics/activityforensics) 
+[[Dataset]](https://entuedu-my.sharepoint.com/:f:/g/personal/peijun_bao_staff_main_ntu_edu_sg/IgB-nNOfNgG6QaqwV2CPjQY9AdDht4epuR3G-IhOK7Ihbbg) (password: ActivityForensics)
+
+
 
 ## News 
 - 🔥 **[2026.03.29]** We release the extracted features and annotations.
