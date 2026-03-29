@@ -112,11 +112,15 @@ You are welcome to send pull requests or share some ideas with me.  Peijun Bao (
 
 
 <!-- display_flag = true -->
+<!--
 <a href="https://mapmyvisitors.com/web/1c3j2" title="Visit tracker">
   <img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" alt="Visit tracker" />
 </a>
-
-<!-- display_flag = false-->
-<!--
-<img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" alt="" width="1" height="1" />
 -->
+
+<!-- display_flag = false -->
+<img 
+  src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q"
+  alt=""
+  style="display:none;"
+/>
