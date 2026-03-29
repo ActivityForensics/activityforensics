@@ -1,8 +1,5 @@
 # [CVPR 2026] ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos
 
-
-
-## News
 - 🔥 **[2026.03.29]** We release the extracted features and annotations.
 - 🔥 **[2026.03.27]** We open-sourced the code.
 - 🔥 **[2026.03.01]** Our paper has been accepted to CVPR 2026
