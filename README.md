@@ -112,5 +112,7 @@ You are welcome to send pull requests or share some ideas with me.  Peijun Bao (
 
 
 </div>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q'></script>
+
+<a href='https://mapmyvisitors.com/web/1c3j2'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q'/></a>
+
 </div>
