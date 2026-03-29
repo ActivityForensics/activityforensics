@@ -1,4 +1,4 @@
-<p align="left" style="font-size:100px;"><strong>[CVPR 2026] ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos</strong></p>
+<p align="left" style="font-size:500px;"><strong>[CVPR 2026] ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos</strong></p>
 
 ## News 
 - 🔥 **[2026.03.29]** We release the extracted features and annotations.
