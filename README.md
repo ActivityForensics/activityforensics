@@ -1,5 +1,13 @@
 # [CVPR 2026] ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos
 
+
+
+## News
+- 🔥 **[2026.03.29]** We release the extracted features and annotations.
+- 🔥 **[2026.03.27]** We open-sourced the code.
+- 🔥 **[2026.03.01]** Our paper has been accepted to CVPR 2026
+
+## Useful Links
 Peijun Bao,   Anwei Luo,   Gang Pan,   Alex C. Kot,   Xudong Jiang
 
 - [Project Page](https://activityforensics.github.io/)
@@ -8,13 +16,14 @@ Peijun Bao,   Anwei Luo,   Gang Pan,   Alex C. Kot,   Xudong Jiang
 - [Code](https://github.com/ActivityForensics/activityforensics)
 - [Dataset](https://entuedu-my.sharepoint.com/:f:/g/personal/peijun_bao_staff_main_ntu_edu_sg/IgB-nNOfNgG6QaqwV2CPjQY9AdDht4epuR3G-IhOK7Ihbbg) (password: ActivityForensics)
 
----
-
-## Project Updates
-- 🔥 **[2026.03.29]** We release the extracted features and annotations.
-- 🔥 **[2026.03.27]** We open-sourced the code.
-- 🔥 **[2026.03.01]** Our paper has been accepted to CVPR 2026
-
+```bibtex
+@inproceedings{bao2026activityforensics,
+    title={ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos},
+    author={Bao, Peijun and Luo, Anwei and Pan, Gang and Kot, Alex C. and Jiang, Xudong},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2026}
+}
+```
 
 ## Dataset Preparation
 
@@ -101,13 +110,5 @@ You are welcome to send pull requests or share some ideas with me.
 Peijun Bao (peijun001@e.ntu.edu.sg)  
 
 
-## Citation
 
-```bibtex
-@inproceedings{bao2026activityforensics,
-    title={ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos},
-    author={Bao, Peijun and Luo, Anwei and Pan, Gang and Kot, Alex C. and Jiang, Xudong},
-    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2026}
-}
-```
+
