@@ -17,7 +17,7 @@ If this dataset is useful for your work, please consider citing our paper.
 [[Dataset]](https://entuedu-my.sharepoint.com/:f:/g/personal/peijun_bao_staff_main_ntu_edu_sg/IgB-nNOfNgG6QaqwV2CPjQY9AdDht4epuR3G-IhOK7Ihbbg) (password: ActivityForensics)
 
 
-
+---
 ## News 
 - 🔥 **[2026.03.29]** We release the extracted features and annotations.
 - 🔥 **[2026.03.27]** We open-sourced the code.
