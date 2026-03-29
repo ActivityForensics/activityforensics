@@ -107,8 +107,7 @@ We also thank the authors of several open-source video generation and editing me
 
 ## Contact
 
-You are welcome to send pull requests or share some ideas with me.  
-You can contact via Peijun Bao (peijun001@e.ntu.edu.sg)  
+You are welcome to send pull requests or share some ideas with me.  Peijun Bao (peijun001@e.ntu.edu.sg)  
 
 
 
