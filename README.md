@@ -14,6 +14,7 @@ Peijun Bao,   Anwei Luo,   Gang Pan,   Alex C. Kot,   Xudong Jiang
 - [Code](https://github.com/ActivityForensics/activityforensics)
 - [Dataset](https://entuedu-my.sharepoint.com/:f:/g/personal/peijun_bao_staff_main_ntu_edu_sg/IgB-nNOfNgG6QaqwV2CPjQY9AdDht4epuR3G-IhOK7Ihbbg) (password: ActivityForensics)
 
+If you find this dataset useful in your research, please consider citing our paper.
 ```bibtex
 @inproceedings{bao2026activityforensics,
     title={ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos},
