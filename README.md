@@ -18,7 +18,7 @@ If this dataset is useful for your work, please consider citing our paper.
     year={2026}
 }
 ```
----
+
 ## News 
 - 🔥 **[2026.03.29]** We release the extracted features and annotations.
 - 🔥 **[2026.03.27]** We open-sourced the code.
