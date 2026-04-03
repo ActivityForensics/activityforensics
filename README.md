@@ -59,13 +59,13 @@ python train.py --config configs/tadiff.yaml
 
 
 
-
+<!--
 ## Motivation: In which video are the activities AI-manipulated?
 
 | [![Video A](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_crop.mp4) | ![arrow](https://activityforensics.github.io/activityforensics/fig/02_samples/main_code.png) | [![Video B](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H_fast.jpg)](https://activityforensics.github.io/activityforensics/fig/02_samples/0UK3H+2.10=8.20=charades@test_delete@0UK3H@639@wan_crop.mp4) |
 |:---------------------------:|:---------------------------:|:---------------------------:|
 |   Original Video | (video can be played in new tab) | Manipulated Video |
-
+-->
 
 
 ## Beyond Appearance: The First Benchmark for Activity-Level Forensics
@@ -86,7 +86,7 @@ python train.py --config configs/tadiff.yaml
 
 <p align="center"><em>Overview of grounding-assisted dataset generation pipeline.</em></p>
 <img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" 
-width="0" height="0" 
+width="1" height="1" 
 style="display:none;" 
 />
 
