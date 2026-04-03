@@ -86,7 +86,7 @@ python train.py --config configs/tadiff.yaml
 
 <p align="center"><em>Overview of grounding-assisted dataset generation pipeline.</em></p>
 <img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" 
-width="0" height="0" 
+width="1" height="1" 
 style="display:none;" 
 />
 
