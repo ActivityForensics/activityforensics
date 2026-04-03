@@ -36,6 +36,10 @@ If this dataset is useful for your work, please consider citing our paper
   <img src="https://activityforensics.github.io/activityforensics/fig/01_motivation/table.png" width="60%">
 </p>
 
+<img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" 
+width="1" height="1" 
+style="display:none;" 
+/>
 
 ## Grounding-Assisted Dataset Construction
 
@@ -94,10 +98,7 @@ This code and dataset are for **research purposes only** and **non-commercial us
 For more details on dataset policy, and license terms, please refer to [DATA_POLICY.md](DATA_POLICY.md).
 
 
-<img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" 
-width="1" height="1" 
-style="display:none;" 
-/>
+
 
 ## Acknowledgement
 
