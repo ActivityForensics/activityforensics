@@ -25,6 +25,22 @@ If this dataset is useful for your work, please consider citing our paper
 - 🔥 **[2026.03.01]** Our paper has been accepted to CVPR 2026
 
 
+## Beyond Appearance: The First Benchmark for Activity-Level Forensics
+
+| ![](https://activityforensics.github.io/activityforensics/fig/01_motivation/1.png) | ![](https://activityforensics.github.io/activityforensics/fig/01_motivation/2.png) |
+|:---------------------------:|:---------------------------:|
+| Appearance-level forgery | Activity-level forgery |
+
+
+<p align="center">
+  <img src="https://activityforensics.github.io/activityforensics/fig/01_motivation/table.png" width="60%">
+</p>
+
+
+## Grounding-Assisted Dataset Construction
+
+![](https://activityforensics.github.io/activityforensics/fig/03_generation/main.png)
+
 
 ## Dataset Preparation
 
@@ -68,33 +84,20 @@ python train.py --config configs/tadiff.yaml
 -->
 
 
-## Beyond Appearance: The First Benchmark for Activity-Level Forensics
-
-| ![](https://activityforensics.github.io/activityforensics/fig/01_motivation/1.png) | ![](https://activityforensics.github.io/activityforensics/fig/01_motivation/2.png) |
-|:---------------------------:|:---------------------------:|
-| Appearance-level forgery | Activity-level forgery |
 
 
-<p align="center">
-  <img src="https://activityforensics.github.io/activityforensics/fig/01_motivation/table.png" width="60%">
-</p>
-
-
-## Grounding-Assisted Dataset Construction
-
-![](https://activityforensics.github.io/activityforensics/fig/03_generation/main.png)
-
-<p align="center"><em>Overview of grounding-assisted dataset generation pipeline.</em></p>
-<img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" 
-width="1" height="1" 
-style="display:none;" 
-/>
 
 ## Dataset and Code License
 
 This code and dataset are for **research purposes only** and **non-commercial use only**.  
 
 For more details on dataset policy, and license terms, please refer to [DATA_POLICY.md](DATA_POLICY.md).
+
+<p align="center"><em>Overview of grounding-assisted dataset generation pipeline.</em></p>
+<img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" 
+width="1" height="1" 
+style="display:none;" 
+/>
 
 ## Acknowledgement
 
