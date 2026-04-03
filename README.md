@@ -60,7 +60,7 @@ python setup.py install
 cd ../../
 ```
 
----
+
 
 ## Training
 
@@ -70,7 +70,7 @@ Run the following command to start training:
 python train.py --config configs/tadiff.yaml
 ```
 
----
+
 
 
 
