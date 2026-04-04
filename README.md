@@ -61,7 +61,6 @@ data/
 cd libs/utils
 python setup.py build
 python setup.py install
-cd ../../
 ```
 
 
