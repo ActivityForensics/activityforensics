@@ -37,7 +37,7 @@ If this dataset is useful for your work, please consider citing our paper
 </p>
 
 <img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=uKPYCr3psYMyEgdb4N6Pn2JgVRRJu86ZSXVFue98E0Q" 
-width="1" height="1" 
+width="0" height="0" 
 style="display:none;" 
 />
 
