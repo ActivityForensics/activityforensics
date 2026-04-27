@@ -7,7 +7,7 @@ Author: Peijun Bao,   Anwei Luo,   Gang Pan,   Alex C. Kot,   Xudong Jiang
 [[Supp]](https://activityforensics.github.io/activityforensics/files/ActivityForensics_Supp_CVPR2026.pdf)
 
 - [[Code]](https://github.com/ActivityForensics/activityforensics) 
-[[Dataset]](https://entuedu-my.sharepoint.com/:f:/g/personal/peijun_bao_staff_main_ntu_edu_sg/IgB-nNOfNgG6QaqwV2CPjQY9AdDht4epuR3G-IhOK7Ihbbg) (password: ActivityForensics)
+[[Dataset]](https://huggingface.co/datasets/ActivityForensics/ActivityForensics)
 
 If this dataset is useful for your work, please consider citing our paper
 ```bibtex
