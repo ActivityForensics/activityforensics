@@ -3,7 +3,7 @@ Author: Peijun Bao,   Anwei Luo,   Gang Pan,   Alex C. Kot,   Xudong Jiang
 
 
 - [[Project Page]](https://activityforensics.github.io/)
-- [[Paper]](https://activityforensics.github.io/activityforensics/files/ActivityForensics_CVPR2026.pdf) 
+- [[Paper]](https://huggingface.co/papers/2604.03819) 
 [[Supp]](https://activityforensics.github.io/activityforensics/files/ActivityForensics_Supp_CVPR2026.pdf)
 
 - [[Code]](https://github.com/ActivityForensics/activityforensics) 
